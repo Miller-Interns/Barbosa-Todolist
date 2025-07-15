@@ -1,13 +1,3 @@
-<!-- <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
-</script>
-
-<template>
-  <main>
-    <TheWelcome />
-  </main>
-</template> -->
-
 <script setup lang="ts">
 import { useRouter } from 'vue-router';
 import Details from '../components/intern-details.vue';
@@ -16,7 +6,6 @@ import { RouteName } from '@/enum/RouteNames';
 
 const router = useRouter();
 
-//go to the todolist page when the button is clicked
 function goToTodoList() {
   router.push({ name: RouteName.TODOLIST })
 }
