@@ -1,6 +1,6 @@
 import { ref, watch } from 'vue'
 import { defineStore } from 'pinia'
-import { type TodoCategory, type TodoItem } from '@/types/TodoInterfaces'
+import { type TodoCategory, type TodoItem } from '@/interfaces/TodoInterfaces'
 
 export const useCategoryStore = defineStore('categories', () => {
   const storageKey = 'todolist-app-data'

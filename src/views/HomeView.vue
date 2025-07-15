@@ -10,15 +10,15 @@ import TheWelcome from '../components/TheWelcome.vue'
 
 <script setup lang="ts">
 import { useRouter } from 'vue-router';
-
 import Details from '../components/intern-details.vue';
 import Button from '../components/button-design.vue';
+import { RouteName } from '@/enum/RouteNames';
 
 const router = useRouter();
 
 //go to the todolist page when the button is clicked
 function goToTodoList() {
-  router.push('/todolist');
+  router.push({ name: RouteName.TODOLIST })
 }
 </script>
 

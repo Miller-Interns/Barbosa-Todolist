@@ -1,6 +1,6 @@
 import { ref, watch } from 'vue'
 import { defineStore } from 'pinia'
-import { type InternInfo } from '@/types/TodoInterfaces'
+import { type InternInfo } from '@/interfaces/TodoInterfaces'
 
 export const useInternStore = defineStore('intern', () => {
   const InternDetails = ref<InternInfo>({
