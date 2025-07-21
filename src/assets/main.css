@@ -1,10 +1,17 @@
+@import 'tailwindcss';
+@import 'sweetalert2/dist/sweetalert2.min.css';
 @import './base.css';
-
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Pixelify+Sans:wght@400..700&display=swap');
 #app {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
   font-weight: normal;
+}
+body {
+  display: flex;
+  background-color: #f2c8e0;
+  font-family: 'Jersey 10', cursive;
 }
 
 a,
@@ -24,12 +31,13 @@ a,
 @media (min-width: 1024px) {
   body {
     display: flex;
-    place-items: center;
+    background-color: #f2c8e0;
+    font-family: 'Jersey 10';
   }
 
   #app {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    padding: 0 2rem;
+    height: 100%;
+    width: 100%;
+    display: flex;
   }
 }

@@ -1,0 +1,72 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360">
+	<title>New Project</title>
+	<style>
+		.s0 { fill: #c47565 } 
+		.s1 { fill: #f42a5a } 
+		.s2 { fill: #ffabb1 } 
+		.s3 { fill: #f0916c } 
+		.s4 { fill: #ff6a85 } 
+		.s5 { fill: #ffeac8 } 
+		.s6 { fill: #ffd393 } 
+		.s7 { fill: #ffaf7c } 
+		.s8 { fill: #473d61 } 
+	</style>
+	<path class="s0" d="m276.9 166.2v27.6h-27.7v-27.6z"/>
+	<path class="s1" d="m304.6 83.1h-27.7v27.7h-27.7v27.6h27.7v27.8h27.7v-27.8h27.7v-27.6-27.7z"/>
+	<path class="s2" d="m276.9 27.7v27.7h-27.7v-27.7z"/>
+	<path class="s3" d="m249.2 193.8v27.8h-27.7v-27.8z"/>
+	<path class="s2" d="m249.2 55.4v27.7h-27.7v-27.7z"/>
+	<path class="s0" d="m221.5 221.6v27.6h-27.7v-27.6z"/>
+	<path class="s3" d="m221.5 193.8v27.8h-27.7v-27.8z"/>
+	<path class="s4" d="m276.9 55.4h-27.7v27.7h-27.7v27.7h27.7 27.7v-27.7h27.7v-27.7z"/>
+	<path class="s4" d="m249.2 27.7v27.7h-27.7v-27.7z"/>
+	<path class="s4" d="m221.5 55.4v27.7h-27.7v-27.7z"/>
+	<path class="s0" d="m193.8 249.2v27.7h-27.7v-27.7z"/>
+	<path class="s5" d="m193.8 110.8v27.6h-27.7v-27.6z"/>
+	<path class="s3" d="m166.1 276.9v27.7h-27.7v-27.7z"/>
+	<path class="s3" d="m166.1 249.2v27.7h-27.7v-27.7z"/>
+	<path class="s5" d="m166.1 138.4v27.8h-27.7v-27.8z"/>
+	<path class="s0" d="m138.4 304.6v27.7h-27.7v-27.7z"/>
+	<path class="s5" d="m138.4 166.2v27.6h-27.7v-27.6z"/>
+	<path class="s0" d="m110.7 304.6v27.7h-27.6v-27.7z"/>
+	<path class="s3" d="m110.7 276.9v27.7h-27.6v-27.7z"/>
+	<path class="s5" d="m110.7 193.8v27.8h-27.6v-27.8z"/>
+	<path class="s3" d="m83.1 304.6v27.7h-27.7v-27.7z"/>
+	<path class="s6" d="m193.8 110.8v27.6h-27.7v27.8h-27.7v27.6h-27.7v27.8h-27.6v27.6h27.6 27.7v-27.6h27.7v-27.8h27.7v-27.6h27.7v-27.8-27.6z"/>
+	<path class="s6" d="m193.8 83.1v27.7h-27.7v-27.7z"/>
+	<path class="s6" d="m166.1 110.8v27.6h-27.7v-27.6z"/>
+	<path class="s6" d="m138.4 138.4v27.8h-27.7v-27.8z"/>
+	<path class="s6" d="m110.7 166.2v27.6h-27.6v-27.6z"/>
+	<path class="s6" d="m83.1 193.8v27.8h-27.7v-27.8z"/>
+	<path class="s7" d="m221.5 138.4v27.8h-27.7v27.6h27.7 27.7v-27.6-27.8z"/>
+	<path class="s7" d="m166.1 221.6h-27.7v27.6h27.7 27.7v-27.6-27.8h-27.7z"/>
+	<path class="s7" d="m138.4 249.2v27.7h-27.7v-27.7z"/>
+	<path class="s7" d="m55.4 221.6h-27.7v27.6 27.7 27.7h27.7 27.7v-27.7-27.7h-27.7z"/>
+	<path class="s8" d="m332.3 83.1v27.7 27.6h27.7v-27.6-27.7z"/>
+	<path class="s8" d="m332.3 138.4v27.8h-27.7v-27.8z"/>
+	<path class="s8" d="m332.3 55.4v27.7h-27.7v-27.7z"/>
+	<path class="s8" d="m304.6 166.2v27.6h-27.7v-27.6z"/>
+	<path class="s8" d="m304.6 27.7v27.7h-27.7v-27.7z"/>
+	<path class="s8" d="m276.9 193.8v27.8h-27.7v-27.8z"/>
+	<path class="s8" d="m276.9 138.4v27.8h-27.7v-27.8z"/>
+	<path class="s8" d="m276.9 27.7v-27.7h-27.7-27.7v27.7h27.7z"/>
+	<path class="s8" d="m249.2 221.6v27.6h-27.7v-27.6z"/>
+	<path class="s8" d="m249.2 110.8v27.6h-27.7v-27.6z"/>
+	<path class="s8" d="m221.5 249.2v27.7h-27.7v-27.7z"/>
+	<path class="s8" d="m221.5 83.1v27.7h-27.7v-27.7z"/>
+	<path class="s8" d="m221.5 27.7v27.7h-27.7v-27.7z"/>
+	<path class="s8" d="m193.8 276.9v27.7h-27.7v-27.7z"/>
+	<path class="s8" d="m193.8 55.4v27.7h-27.7v-27.7z"/>
+	<path class="s8" d="m166.1 304.6v27.7h-27.7v-27.7z"/>
+	<path class="s8" d="m166.1 83.1v27.7h-27.7v-27.7z"/>
+	<path class="s8" d="m138.4 276.9v27.7h-27.7v-27.7z"/>
+	<path class="s8" d="m138.4 110.8v27.6h-27.7v-27.6z"/>
+	<path class="s8" d="m83.1 332.3h-27.7v-27.7h-27.7v-27.7-27.7-27.6h-27.7v27.6 27.7 27.7 27.7 27.7h27.7 27.7 27.7 27.6 27.7v-27.7h-27.7z"/>
+	<path class="s8" d="m110.7 249.2v27.7h-27.6v-27.7z"/>
+	<path class="s8" d="m110.7 138.4v27.8h-27.6v-27.8z"/>
+	<path class="s8" d="m83.1 221.6v27.6h-27.7v-27.6z"/>
+	<path class="s8" d="m83.1 166.2v27.6h-27.7v-27.6z"/>
+	<path class="s8" d="m55.4 193.8v27.8h-27.7v-27.8z"/>
+	<g id="Layer 1">
+	</g>
+</svg>
